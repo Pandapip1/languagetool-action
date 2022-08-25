@@ -1,2 +1,2 @@
 # languagetool-action
-Spell and Grammar checking for GitHub actions
+Spell and grammar checking for GitHub actions
